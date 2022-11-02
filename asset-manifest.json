@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/athletics-logos/static/css/main.073c9b0a.css",
-    "main.js": "/athletics-logos/static/js/main.6c919f37.js",
+    "main.css": "/athletics-logos/static/css/main.eb902304.css",
+    "main.js": "/athletics-logos/static/js/main.447b4ef4.js",
     "static/js/787.07fcbd67.chunk.js": "/athletics-logos/static/js/787.07fcbd67.chunk.js",
     "static/media/logo.svg": "/athletics-logos/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/athletics-logos/index.html",
-    "main.073c9b0a.css.map": "/athletics-logos/static/css/main.073c9b0a.css.map",
-    "main.6c919f37.js.map": "/athletics-logos/static/js/main.6c919f37.js.map",
+    "main.eb902304.css.map": "/athletics-logos/static/css/main.eb902304.css.map",
+    "main.447b4ef4.js.map": "/athletics-logos/static/js/main.447b4ef4.js.map",
     "787.07fcbd67.chunk.js.map": "/athletics-logos/static/js/787.07fcbd67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6c919f37.js"
+    "static/css/main.eb902304.css",
+    "static/js/main.447b4ef4.js"
   ]
 }
